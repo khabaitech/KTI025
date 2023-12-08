@@ -24,6 +24,9 @@ h2{color: pink;}
   background-size: cover;
   background-attachment: fixed;
 }
+h2{
+  color:red;
+}
 
 #skills i {
   height: 100px;

@@ -9,7 +9,7 @@
 body {
   background: var(--bg-color) !important;
 }
-h2{color: pink;}
+h2{color: red;}
 
 /* Changing link color */
 .nav-item .nav-link {
@@ -24,9 +24,7 @@ h2{color: pink;}
   background-size: cover;
   background-attachment: fixed;
 }
-h2{
-  color:red;
-}
+
 
 #skills i {
   height: 100px;
@@ -96,4 +94,7 @@ footer .social-icons a {
   #portfolio .card-wrapper {
     width: 100% !important;
   }
+}
+h2{
+  color:red;
 }

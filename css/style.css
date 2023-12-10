@@ -19,7 +19,7 @@ body {
 /* Hero section background image */
 .hero {
   height: 100vh;
-  background-image: url("as.jpg");
+  background-image: url("../images/home-as.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;

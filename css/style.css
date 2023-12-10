@@ -9,7 +9,7 @@
 body {
   background: var(--bg-color) !important;
 }
-h2{color: red;}
+
 
 /* Changing link color */
 .nav-item .nav-link {
